@@ -11,6 +11,7 @@ PostgreSQL JDBC Driver (PgJDBC for short) allows Java programs to connect to a P
 [![Javadocs](http://javadoc.io/badge/org.postgresql/postgresql.svg)](http://javadoc.io/doc/org.postgresql/postgresql)
 [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![Join the chat at https://gitter.im/pgjdbc/pgjdbc](https://badges.gitter.im/pgjdbc/pgjdbc.svg)](https://gitter.im/pgjdbc/pgjdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftsaarni%2Fpgjdbc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftsaarni%2Fpgjdbc?ref=badge_shield)
 
 ## Supported PostgreSQL and Java versions
 The current version of the driver should be compatible with **PostgreSQL 8.2 and higher** using the version 3.0 of the protocol, and **Java 6** (JDBC 4.0), **Java 7** (JDBC 4.1) and **Java 8** (JDBC 4.2). Unless you have unusual requirements (running old applications or JVMs), this is the driver you should be using.
@@ -157,3 +158,7 @@ For information on how to contribute to the project see the [Contributing Guidel
 
 * [PostgreSQL International](http://www.postgresintl.com)
 * [YourKit](https://www.yourkit.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftsaarni%2Fpgjdbc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftsaarni%2Fpgjdbc?ref=badge_large)
